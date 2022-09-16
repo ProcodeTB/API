@@ -1,240 +1,237 @@
 {
-"date": [
-{
-"id": "test2",
-"bool": true,
-"number": "2001",
-"phone": "(111) 111-1111",
-"text": "{ \t\"countriesWhereTheCarWas\": [], \t\"year\": \"\", \t\"brand\": \"\", \t\"model\": \"\", \t\"description\": \"\", \t\"onBoardComputer\": \"\", \t\"gasEquipment\": \"\", \t\"audioSystem\": \"\", \t\"autoDrive\": \"\" }",
-"googlemap": "49 Komitas Avenue, Yerevan, Armenia",
-"books": [
-			
+	"date": [{
+			"id": "test2",
+			"bool": true,
+			"number": "2001",
+			"phone": "(111) 111-1111",
+			"text": "{ \t\"countriesWhereTheCarWas\": [], \t\"year\": \"\", \t\"brand\": \"\", \t\"model\": \"\", \t\"description\": \"\", \t\"onBoardComputer\": \"\", \t\"gasEquipment\": \"\", \t\"audioSystem\": \"\", \t\"autoDrive\": \"\" }",
+			"googlemap": "49 Komitas Avenue, Yerevan, Armenia",
+			"books": [
+
 				{
-"hex_value": null,
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "#BB656B22",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E414033",
-"colour_name": "Drip"
-},
-{
-"hex_value": "",
-"colour_name": "On a Stick"
-},
-{
-"hex_value": "#b7222755",
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E414077",
-"colour_name": "Drip"
-},
-{
-"hex_value": "#A12A3388",
-"colour_name": "On a Stick"
-},
-{
-"hex_value": "#b7222799",
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "#BB656B110",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E4140111",
-"colour_name": "Drip"
-},
-{
-"hex_value": "#A12A33120",
-"colour_name": "On a Stick"
-},
-{
-"hex_value": "#b72227130",
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "#BB656B140",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E4140150",
-"colour_name": "Drip"
-},
-{
-"hex_value": "#A12A33160",
-"colour_name": "On a Stick"
-},
-{
-"hex_value": "#b72227170",
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "#BB656B180",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E4140190",
-"colour_name": "Drip"
-},
-{
-"hex_value": "#A12A33200",
-"colour_name": "On a Stick"
-},
-{
-"hex_value": "#A12A33210",
-"colour_name": "On a Stick"
-}				
-				
-		],
-"dd-MMM-yyyy hh:mm aa": "09-Jul-2021 11:43 AM",
-"dd-MMM-yyyy hh:mm:ss.s aa": "09-Jul-2021 11:43:39.39 AM",
-"dd-MMMM-yyyy hh:mm:ss.s aa": "09-July-2021 11:43:52.52 AM",
-"dd/MMM/yyyy hh:mm:ss.s aa": "09/Jul/2021 11:44:04.4 AM",
-"dd/MMMM/yyyy hh:mm:ss.s aa": "09/July/2021 11:44:19.19 AM",
-"dd-MMM-yyyy HH:mm": "11-May-2016 15:35",
-"dd-MMM-yyyy HH:mm:ss.s": "12-Jul-2013 11:56:44.44",
-"dd-MMMM-yyyy HH:mm:ss.s": "09-July-2021 10:55:39.39",
-"dd/MMM/yyyy HH:mm:ss.s": "09/Jul/2021 10:58:20.20",
-"dd/MMMM/yyyy HH:mm:ss.s": "09/July/2021 10:58:46.46",
-"dd-MM-yyyy HH:mm:ss": "09-07-2021 10:59:02",
-"dd/MMM/yyyy hh:mm": "09/Jul/2021 10:59",
-"dd-MM-yyyy HH:mm": "09-07-2021 11:00",
-"MM/dd/yyyy": "07/09/2021",
-"MMMM-dd-yyyy": "July-09-2021",
-"MMMM/dd/yyyy": "July/09/2021",
-"dd-MM-yyyy": "09-07-2021",
-"dd-MMM-yyyy": "09-Jul-2021",
-"dd-MMMM-yyyy": "09-July-2021",
-"MM.dd.yyyy": "07.09.2021",
-"dd.MM.yyyy": "09.07.2021",
-"yy/MM/dd": "21/07/09",
-"yyyy/MM/dd": "2021/07/09",
-"hh:mm a": "12:01 PM",
-"hh:mm:ss.s a": "12:02:24.24 PM",
-"dd hh:mm a": "09 12:02 PM",
-"dd hh:mm:ss.s a": "09 12:03:10.10 PM",
-"HH:mm": "11:03",
-"HH:mm:ss.s": "11:03:37.37",
-"dd HH:mm": "09 11:04",
-"dd HH:mm:ss.s": "09 11:04:14.14",
-"MMM yyyy": "Mar 1999",
-"MMMM yyyy": "March 2016",
-"MM-yyyy": "06-2010",
-"MM/yyyy": "11/2012"
-},
-{
-"id": "test1",
-"number": "2000",
-"phone": "(222) 222-2222",
-"books": [
-			
+					"hex_value": null,
+					"colour_name": "Bee's Knees"
+				},
 				{
-"hex_value": "#b7222711aa",
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "#BB656B22aa",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E414033aa",
-"colour_name": "Drip"
-},
-{
-"hex_value": "#A12A3344aa",
-"colour_name": "On a Stick"
-},
-{
-"hex_value": "#b7222755aa",
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "#BB656B66aa",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E414077aa",
-"colour_name": "Drip"
-},
-{
-"hex_value": "#A12A3388aa",
-"colour_name": "On a Stick"
-},
-{
-"hex_value": "#b7222799aa",
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "#BB656B110aa",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E4140111aa",
-"colour_name": "Drip"
-},
-{
-"hex_value": "#A12A33120aa",
-"colour_name": "On a Stick"
-},
-{
-"hex_value": "#b72227130aa",
-"colour_name": "Bee's Knees"
-},
-{
-"hex_value": "#BB656B140aa",
-"colour_name": "Brain Freeze"
-},
-{
-"hex_value": "#8E4140150aa",
-"colour_name": "Drip"
-}
-		],
-"bool": false
-},
-{
-"id": "test3",
-"number": "2002",
-"phone": "(333) 333-3333",
-"MM/dd/yyyy HH:mm:ss": "07/06/2007 13:44:25",
-"MM/dd/yyyy HH:mm": "10/06/2007 13:44"
-}
-],
-"posts": [
-{
-"id": 1,
-"title": "Post 1"
-},
-{
-"id": 2,
-"title": "Post 2"
-},
-{
-"id": 3,
-"title": "Post 3"
-}
-],
-"comments": [
-{
-"id": 1,
-"body": "some comment",
-"postId": 1
-},
-{
-"id": 2,
-"body": "some comment",
-"postId": 1
-}
-],
-"profile": {
-"name": "typicode"
-}
+					"hex_value": "#BB656B22",
+					"colour_name": "Brain Freeze"
+				},
+				{
+					"hex_value": "#8E414033",
+					"colour_name": "Drip"
+				},
+				{
+					"hex_value": "",
+					"colour_name": "On a Stick"
+				},
+				{
+					"hex_value": "#b7222755",
+					"colour_name": "Bee's Knees"
+				},
+				{
+					"hex_value": "",
+					"colour_name": "Brain Freeze"
+				},
+				{
+					"hex_value": "#8E414077",
+					"colour_name": "Drip"
+				},
+				{
+					"hex_value": "#A12A3388",
+					"colour_name": "On a Stick"
+				},
+				{
+					"hex_value": "#b7222799",
+					"colour_name": "Bee's Knees"
+				},
+				{
+					"hex_value": "#BB656B110",
+					"colour_name": "Brain Freeze"
+				},
+				{
+					"hex_value": "#8E4140111",
+					"colour_name": "Drip"
+				},
+				{
+					"hex_value": "#A12A33120",
+					"colour_name": "On a Stick"
+				},
+				{
+					"hex_value": "#b72227130",
+					"colour_name": "Bee's Knees"
+				},
+				{
+					"hex_value": "#BB656B140",
+					"colour_name": "Brain Freeze"
+				},
+				{
+					"hex_value": "#8E4140150",
+					"colour_name": "Drip"
+				},
+				{
+					"hex_value": "#A12A33160",
+					"colour_name": "On a Stick"
+				},
+				{
+					"hex_value": "#b72227170",
+					"colour_name": "Bee's Knees"
+				},
+				{
+					"hex_value": "#BB656B180",
+					"colour_name": "Brain Freeze"
+				},
+				{
+					"hex_value": "#8E4140190",
+					"colour_name": "Drip"
+				},
+				{
+					"hex_value": "#A12A33200",
+					"colour_name": "On a Stick"
+				},
+				{
+					"hex_value": "#A12A33210",
+					"colour_name": "On a Stick"
+				}
+
+			],
+			"dd-MMM-yyyy hh:mm aa": "09-Jul-2021 11:43 AM",
+			"dd-MMM-yyyy hh:mm:ss.s aa": "09-Jul-2021 11:43:39.39 AM",
+			"dd-MMMM-yyyy hh:mm:ss.s aa": "09-July-2021 11:43:52.52 AM",
+			"dd/MMM/yyyy hh:mm:ss.s aa": "09/Jul/2021 11:44:04.4 AM",
+			"dd/MMMM/yyyy hh:mm:ss.s aa": "09/July/2021 11:44:19.19 AM",
+			"dd-MMM-yyyy HH:mm": "11-May-2016 15:35",
+			"dd-MMM-yyyy HH:mm:ss.s": "12-Jul-2013 11:56:44.44",
+			"dd-MMMM-yyyy HH:mm:ss.s": "09-July-2021 10:55:39.39",
+			"dd/MMM/yyyy HH:mm:ss.s": "09/Jul/2021 10:58:20.20",
+			"dd/MMMM/yyyy HH:mm:ss.s": "09/July/2021 10:58:46.46",
+			"dd-MM-yyyy HH:mm:ss": "09-07-2021 10:59:02",
+			"dd/MMM/yyyy hh:mm": "09/Jul/2021 10:59",
+			"dd-MM-yyyy HH:mm": "09-07-2021 11:00",
+			"MM/dd/yyyy": "07/09/2021",
+			"MMMM-dd-yyyy": "July-09-2021",
+			"MMMM/dd/yyyy": "July/09/2021",
+			"dd-MM-yyyy": "09-07-2021",
+			"dd-MMM-yyyy": "09-Jul-2021",
+			"dd-MMMM-yyyy": "09-July-2021",
+			"MM.dd.yyyy": "07.09.2021",
+			"dd.MM.yyyy": "09.07.2021",
+			"yy/MM/dd": "21/07/09",
+			"yyyy/MM/dd": "2021/07/09",
+			"hh:mm a": "12:01 PM",
+			"hh:mm:ss.s a": "12:02:24.24 PM",
+			"dd hh:mm a": "09 12:02 PM",
+			"dd hh:mm:ss.s a": "09 12:03:10.10 PM",
+			"HH:mm": "11:03",
+			"HH:mm:ss.s": "11:03:37.37",
+			"dd HH:mm": "09 11:04",
+			"dd HH:mm:ss.s": "09 11:04:14.14",
+			"MMM yyyy": "Mar 1999",
+			"MMMM yyyy": "March 2016",
+			"MM-yyyy": "06-2010",
+			"MM/yyyy": "11/2012"
+		},
+		{
+			"id": "test1",
+			"number": "2000",
+			"phone": "(222) 222-2222",
+			"books": [
+
+				{
+					"hex_value": "#b7222711aa",
+					"colour_name": "Bee's Knees"
+				},
+				{
+					"hex_value": "#BB656B22aa",
+					"colour_name": "Brain Freeze"
+				},
+				{
+					"hex_value": "#8E414033aa",
+					"colour_name": "Drip"
+				},
+				{
+					"hex_value": "#A12A3344aa",
+					"colour_name": "On a Stick"
+				},
+				{
+					"hex_value": "#b7222755aa",
+					"colour_name": "Bee's Knees"
+				},
+				{
+					"hex_value": "#BB656B66aa",
+					"colour_name": "Brain Freeze"
+				},
+				{
+					"hex_value": "#8E414077aa",
+					"colour_name": "Drip"
+				},
+				{
+					"hex_value": "#A12A3388aa",
+					"colour_name": "On a Stick"
+				},
+				{
+					"hex_value": "#b7222799aa",
+					"colour_name": "Bee's Knees"
+				},
+				{
+					"hex_value": "#BB656B110aa",
+					"colour_name": "Brain Freeze"
+				},
+				{
+					"hex_value": "#8E4140111aa",
+					"colour_name": "Drip"
+				},
+				{
+					"hex_value": "#A12A33120aa",
+					"colour_name": "On a Stick"
+				},
+				{
+					"hex_value": "#b72227130aa",
+					"colour_name": "Bee's Knees"
+				},
+				{
+					"hex_value": "#BB656B140aa",
+					"colour_name": "Brain Freeze"
+				},
+				{
+					"hex_value": "#8E4140150aa",
+					"colour_name": "Drip"
+				}
+			],
+			"bool": false
+		},
+		{
+			"id": "test3",
+			"number": "2002",
+			"phone": "(333) 333-3333",
+			"MM/dd/yyyy HH:mm:ss": "07/06/2007 13:44:25",
+			"MM/dd/yyyy HH:mm": "10/06/2007 13:44"
+		}
+	],
+	"posts": [{
+			"id": 1,
+			"title": "Post 1"
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
