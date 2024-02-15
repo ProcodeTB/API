@@ -4,6 +4,7 @@
             "id": "test2",
             "bool": true,
             "number": "2001",
+            "price": "-1505486.01",
             "phone": "(111) 111-1111",
             "email": "userCreator@gmail.com",
             "zip5": "85364",
