@@ -266,5 +266,16 @@
     ],
     "profile": {
         "name": "typicode"
+    },
+    {
+            "id": "Front Bumper",
+            "bool": true,
+            "number": "2001",
+            "price": "$ 15,486.01",
+            "phone": "(111) 111-1111",
+            "email": "userCreator@gmail.com",
+            "zip5": "85364",
+            "zip9": "85364-7536",
+            "text": "Front Bumper"
     }
 }
