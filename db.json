@@ -11,6 +11,7 @@
             "zip9": "85364-7536",
             "text": "{ \t\"countriesWhereTheCarWas\": [], \t\"year\": \"\", \t\"brand\": \"\", \t\"model\": \"\", \t\"description\": \"\", \t\"onBoardComputer\": \"\", \t\"gasEquipment\": \"\", \t\"audioSystem\": \"\", \t\"autoDrive\": \"\" }",
             "googlemap": "49 Komitas Avenue, Yerevan, Armenia",
+            "hood": "Hood",
             "books": [
                 {
                     "hex_value": null,
