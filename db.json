@@ -252,13 +252,7 @@
         {
             "id": "Head",
             "bool": true,
-            "number": "2001",
-            "price": "$ 5,095.01",
-            "phone": "(444) 444-4444",
-            "email": "userCreator@gmail.com",
-            "zip5": "77025",
-            "zip9": "43206-1254",
-            "text": "Head"
+            "number": "2001"
         }
     ],
     "posts": [
